@@ -2,3 +2,8 @@ body {
   color: black;
   background: azure;
 }
+.home {
+  background: white;
+  color: teal;
+  font-weight: 500;
+}
